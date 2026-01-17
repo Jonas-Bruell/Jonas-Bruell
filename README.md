@@ -1,4 +1,10 @@
 ## Hi there 👋
+Welcome! Have a look around at what I've been up to 🤗
+
+### Find me on MonkeyType:
+<a href="https://monkeytype.com/profile/Jonas-Bruell">
+    <img src="https://raw.githubusercontent.com/Jonas-Bruell/Jonas-Bruell/monkeytype-readme/monkeytype-readme.svg" alt="My Monkeytype profile" style="max-width:300"/>
+</a>
 
 <!--
 **Jonas-Bruell/Jonas-Bruell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
